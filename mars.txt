@@ -4,3 +4,4 @@ We are approaching Mars, ready to land.
 We have landed successfully on Mars. It is strangely orange.
 The rover is going crazy on Mars.
 Rover is scooping samples from Mars.
+Another day on Mars.
