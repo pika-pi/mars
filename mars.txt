@@ -3,3 +3,4 @@ We are docked in the space station, waiting for slingshot to Mars.
 We are approaching Mars, ready to land.
 We have landed successfully on Mars. It is strangely orange.
 The rover is going crazy on Mars.
+Rover is scooping samples from Mars.
